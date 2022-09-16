@@ -1,0 +1,626 @@
+{
+  "components.ContributeForm.company.subTitle": [
+    {
+      "type": 0,
+      "value": "QUER TORNAR-SE PARCEIRO(A)?"
+    }
+  ],
+  "components.ContributeForm.company.title": [
+    {
+      "type": 0,
+      "value": "Sou uma "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "empresa"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.developer.subTitle": [
+    {
+      "type": 0,
+      "value": "COMO POSSO CONTRIBUIR?"
+    }
+  ],
+  "components.ContributeForm.developer.title": [
+    {
+      "type": 0,
+      "value": "Sou um(a) "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "desenvolvedor(a)"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.text": [
+    {
+      "type": 0,
+      "value": "Ergo opera em um modelo aberto, onde "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "convidamos todos a contribuirem."
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.title": [
+    {
+      "type": 0,
+      "value": "Contribua"
+    }
+  ],
+  "components.DApps.seeAllProjects": [
+    {
+      "type": 0,
+      "value": "VER TODOS OS PROJETOS"
+    }
+  ],
+  "components.Sigmanauts.button": [
+    {
+      "type": 0,
+      "value": "LEIA MAIS & INSCREVA-SE"
+    }
+  ],
+  "components.Sigmanauts.button.buttonContribute": [
+    {
+      "type": 0,
+      "value": "GUIA DE CONTRIBUIÇÃO"
+    }
+  ],
+  "components.Sigmanauts.button.discord": [
+    {
+      "type": 0,
+      "value": "ENTRE NO NOSSO DISCORD"
+    }
+  ],
+  "components.Sigmanauts.button.grantsAndBounties": [
+    {
+      "type": 0,
+      "value": "BÔNUS & PRÊMIOS"
+    }
+  ],
+  "components.Sigmanauts.button.writeAndReviewCode": [
+    {
+      "type": 0,
+      "value": "APROFUNDE-SE EM ERGO"
+    }
+  ],
+  "components.Sigmanauts.formInput.button": [
+    {
+      "type": 0,
+      "value": "ENVIAR"
+    }
+  ],
+  "components.Sigmanauts.formInput.email": [
+    {
+      "type": 0,
+      "value": "E-Mail"
+    }
+  ],
+  "components.Sigmanauts.formInput.name": [
+    {
+      "type": 0,
+      "value": "Nome / Empresa"
+    }
+  ],
+  "components.Sigmanauts.formInput.text": [
+    {
+      "type": 0,
+      "value": "Envie suas sugestões e ideias, vamos conversar!"
+    }
+  ],
+  "components.Sigmanauts.subTitle": [
+    {
+      "type": 0,
+      "value": "Programa de treinamento"
+    }
+  ],
+  "components.Sigmanauts.text": [
+    {
+      "type": 0,
+      "value": "Inscreva-se no Programa de Treinamento Sigmanauta para ajudar a moldar e crescer Ergo."
+    }
+  ],
+  "components.Sigmanauts.title": [
+    {
+      "type": 0,
+      "value": "Sigmanautas"
+    }
+  ],
+  "components.Spotlight.button": [
+    {
+      "type": 0,
+      "value": "VER TODOS OS POSTS"
+    }
+  ],
+  "components.Spotlight.title": [
+    {
+      "type": 0,
+      "value": "Spotlight"
+    }
+  ],
+  "components.autolykos.button": [
+    {
+      "type": 0,
+      "value": "MINERAR ERG"
+    }
+  ],
+  "components.autolykos.header": [
+    {
+      "type": 0,
+      "value": "AUTOLYKOS"
+    }
+  ],
+  "components.autolykos.text": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Autolykos"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " é o fundamental algoritmo Prova-de-Trabalho, resistente à ASICs, intenso no uso de memória, e orientado a GPUs."
+    }
+  ],
+  "components.autolykos.title": [
+    {
+      "type": 0,
+      "value": "O Futuro da Prova-de-Trabalho"
+    }
+  ],
+  "components.communityHero.subtitle": [
+    {
+      "type": 0,
+      "value": "FINANÇAS PARA BASES POPULARES"
+    }
+  ],
+  "components.discoverErgo.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo é a plataforma de contratos inteligentes em Prova-de-Trabalho da nova geração, que possibilita novos modelos de interações financeiras, sustentada por uma linguagem de script segura, rica e construída com poderosas e flexíveis Provas de Conhecimento-Zero (protocolos-Σ)"
+    }
+  ],
+  "components.discoverHero.button1": [
+    {
+      "type": 0,
+      "value": "LEIA OS DOCUMENTOS"
+    }
+  ],
+  "components.discoverHero.button2": [
+    {
+      "type": 0,
+      "value": "APRENDA COM DECO"
+    }
+  ],
+  "components.discoverHero.button3": [
+    {
+      "type": 0,
+      "value": "LEIA O MANIFESTO"
+    }
+  ],
+  "components.discoverHero.button4": [
+    {
+      "type": 0,
+      "value": "LEIA O BLOG"
+    }
+  ],
+  "components.discoverHero.button5": [
+    {
+      "type": 0,
+      "value": "INSTALAÇÃO"
+    }
+  ],
+  "components.discoverHero.button6": [
+    {
+      "type": 0,
+      "value": "VISITE ERGONAUT.SPACE"
+    }
+  ],
+  "components.ergoExplorer.button1": [
+    {
+      "type": 0,
+      "value": "EXPLORADOR"
+    }
+  ],
+  "components.ergoExplorer.button2": [
+    {
+      "type": 0,
+      "value": "ERGO.WATCH"
+    }
+  ],
+  "components.faq.text.2": [
+    {
+      "type": 0,
+      "value": "NÃO CONSEGUE ACHAR O QUE "
+    },
+    {
+      "type": 1,
+      "value": "breakingLine"
+    },
+    {
+      "type": 0,
+      "value": " ESTÁ PROCURANDO?"
+    }
+  ],
+  "components.favorites.button1": [
+    {
+      "type": 0,
+      "value": "EXPLORE O ERGO RAFFLE"
+    }
+  ],
+  "components.grantsAndBounties.button1": [
+    {
+      "type": 0,
+      "value": "PRÊMIOS"
+    }
+  ],
+  "components.grantsAndBounties.button2": [
+    {
+      "type": 0,
+      "value": "COMECE UMA RIFA"
+    }
+  ],
+  "components.grantsAndBounties.button3": [
+    {
+      "type": 0,
+      "value": "ENTRE EM CONTATO"
+    }
+  ],
+  "components.highlights.title": [
+    {
+      "type": 0,
+      "value": "DESTAQUES"
+    }
+  ],
+  "components.homeHero.button": [
+    {
+      "type": 0,
+      "value": "SAIBA MAIS"
+    }
+  ],
+  "components.homeHero.text": [
+    {
+      "type": 0,
+      "value": "Ergo é uma plataforma de contratos inteligentes da nova geração que garante liberdade econômica de pessoas comuns através de ferramentas financeiras descentralizadas, acessíveis e seguras."
+    }
+  ],
+  "components.homeHero.title": [
+    {
+      "type": 0,
+      "value": "Empoderando o Futuro das Finanças"
+    }
+  ],
+  "components.homeInfo.blockReward": [
+    {
+      "type": 0,
+      "value": "RECOMPENSA POR BLOCO"
+    }
+  ],
+  "components.homeInfo.circulatingSupply": [
+    {
+      "type": 0,
+      "value": "OFERTA CIRCULANTE"
+    }
+  ],
+  "components.homeInfo.hashRate": [
+    {
+      "type": 0,
+      "value": "TAXA DE HASH"
+    }
+  ],
+  "components.homeInfo.transactionPerDay": [
+    {
+      "type": 0,
+      "value": "TRANSAÇÕES POR DIA"
+    }
+  ],
+  "components.mining.text.1": [
+    {
+      "type": 0,
+      "value": "Mineração em Ergo é baseada no Autolykos, um algoritmo de Prova-de-Trabalho que é resistente à ASICs e escrito em Scala. Pode ser executado em placas de vídeo medianas e a temperaturas mais baixas que outros algoritmos, o que aumenta a longevidade do equipamento de mineração. Combinado com o modelo eUTXO e com o deslocamento das computações pesadas para fora da rede, isto cria uma Prova-de-Trabalho altamente eficiente."
+    }
+  ],
+  "components.mining.text.2": [
+    {
+      "type": 0,
+      "value": "Bem-vindo(a) ao futuro da Prova-de-Trabalho."
+    }
+  ],
+  "components.mining.text.3": [
+    {
+      "type": 0,
+      "value": "Para começar, veja o Manual de Mineração criado pela comunidade, ou junte-se aos espaços de discussão sobre mineração."
+    }
+  ],
+  "components.roadmap.title": [
+    {
+      "type": 0,
+      "value": "Roadmap"
+    }
+  ],
+  "footer.blog.title": [
+    {
+      "type": 0,
+      "value": "BLOG"
+    }
+  ],
+  "footer.community.1": [
+    {
+      "type": 0,
+      "value": "Junte-se aos nossos canais"
+    }
+  ],
+  "footer.community.2": [
+    {
+      "type": 0,
+      "value": "Sigmanautas"
+    }
+  ],
+  "footer.community.3": [
+    {
+      "type": 0,
+      "value": "Contribu com Ergo"
+    }
+  ],
+  "footer.community.4": [
+    {
+      "type": 0,
+      "value": "Hall da Fama"
+    }
+  ],
+  "footer.community.5": [
+    {
+      "type": 0,
+      "value": "Fundação Ergo"
+    }
+  ],
+  "footer.community.title": [
+    {
+      "type": 0,
+      "value": "COMUNIDADE"
+    }
+  ],
+  "footer.discover.1": [
+    {
+      "type": 0,
+      "value": "Lançamentos de Software"
+    }
+  ],
+  "footer.discover.2": [
+    {
+      "type": 0,
+      "value": "Bolsas & Prêmios"
+    }
+  ],
+  "footer.discover.3": [
+    {
+      "type": 0,
+      "value": "PERGUNTAS FREQUENTES"
+    }
+  ],
+  "footer.discover.4": [
+    {
+      "type": 0,
+      "value": "Explore"
+    }
+  ],
+  "footer.discover.5": [
+    {
+      "type": 0,
+      "value": "Documentos"
+    }
+  ],
+  "footer.discover.title": [
+    {
+      "type": 0,
+      "value": "DESCUBRA"
+    }
+  ],
+  "footer.ecosystem.1": [
+    {
+      "type": 0,
+      "value": "DApps"
+    }
+  ],
+  "footer.ecosystem.2": [
+    {
+      "type": 0,
+      "value": "Roadmap"
+    }
+  ],
+  "footer.ecosystem.3": [
+    {
+      "type": 0,
+      "value": "Wiki"
+    }
+  ],
+  "footer.ecosystem.4": [
+    {
+      "type": 0,
+      "value": "Ergo Raffle"
+    }
+  ],
+  "footer.ecosystem.5": [
+    {
+      "type": 0,
+      "value": "Videocasts"
+    }
+  ],
+  "footer.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "ECOSSISTEMA"
+    }
+  ],
+  "footer.getErg.1": [
+    {
+      "type": 0,
+      "value": "Mineração"
+    }
+  ],
+  "footer.getErg.2": [
+    {
+      "type": 0,
+      "value": "Calculadora de Mineração"
+    }
+  ],
+  "footer.getErg.3": [
+    {
+      "type": 0,
+      "value": "Carteiras"
+    }
+  ],
+  "footer.getErg.4": [
+    {
+      "type": 0,
+      "value": "Corretoras"
+    }
+  ],
+  "footer.getErg.title": [
+    {
+      "type": 0,
+      "value": "OBTENHA ERG"
+    }
+  ],
+  "footer.legal": [
+    {
+      "type": 0,
+      "value": "Legal"
+    }
+  ],
+  "footer.news.title": [
+    {
+      "type": 0,
+      "value": "NOTÍCIAS"
+    }
+  ],
+  "footer.privacyPolicy": [
+    {
+      "type": 0,
+      "value": "Política de Privacidade"
+    }
+  ],
+  "footer.weGotIt": [
+    {
+      "type": 0,
+      "value": "We got it!"
+    }
+  ],
+  "navigation.discover": [
+    {
+      "type": 0,
+      "value": "DESCUBRA"
+    }
+  ],
+  "navigation.ecosystem": [
+    {
+      "type": 0,
+      "value": "ECOSSISTEMA"
+    }
+  ],
+  "navigation.ergoCommunity": [
+    {
+      "type": 0,
+      "value": "COMUNIDADE ERGO"
+    }
+  ],
+  "navigation.getErg": [
+    {
+      "type": 0,
+      "value": "OBTENHA ERG"
+    }
+  ],
+  "navigation.moreContent": [
+    {
+      "type": 0,
+      "value": "Mais conteúdo?"
+    }
+  ],
+  "pages.404.hero": [
+    {
+      "type": 0,
+      "value": "404. Página não encontrada."
+    }
+  ],
+  "pages.404.title": [
+    {
+      "type": 0,
+      "value": "Não Encontrado"
+    }
+  ],
+  "pages.blog.title": [
+    {
+      "type": 0,
+      "value": "Blog"
+    }
+  ],
+  "pages.community.title": [
+    {
+      "type": 0,
+      "value": "Comunidade"
+    }
+  ],
+  "pages.discover.title": [
+    {
+      "type": 0,
+      "value": "Descubra"
+    }
+  ],
+  "pages.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "Ecossistema"
+    }
+  ],
+  "pages.get-erg.title": [
+    {
+      "type": 0,
+      "value": "Obtenha Erg"
+    }
+  ],
+  "pages.home.title": [
+    {
+      "type": 0,
+      "value": "Página Inicial"
+    }
+  ],
+  "pages.legal.title": [
+    {
+      "type": 0,
+      "value": "Legal"
+    }
+  ],
+  "pages.mobile-wallets": [
+    {
+      "type": 0,
+      "value": "Carteiras Mobile"
+    }
+  ],
+  "pages.privacyPolicy.title": [
+    {
+      "type": 0,
+      "value": "Política de Privacidade"
+    }
+  ]
+}

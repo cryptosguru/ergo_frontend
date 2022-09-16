@@ -1,0 +1,311 @@
+@import "./variables.scss";
+
+@font-face {
+  font-family: "Vinila Extended";
+  font-display: swap;
+  src: local(""), url("fonts/Vinila-Rg-Ex.woff2") format("woff2"), url("fonts/Vinila-Rg-Ex.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Vinila Extended Bold";
+  font-display: swap;
+  src: local(""), url("fonts/Vinila-Bd-Ex.woff2") format("woff2"), url("fonts/Vinila-Bd-Ex.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Vinila Extended Light";
+  font-display: swap;
+  src: local(""), url("fonts/Vinila-Lt-Ex.woff2") format("woff2"), url("fonts/Vinila-Lt-Ex.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("fonts/roboto-v29-latin-regular.eot"); /* IE9 Compat Modes */
+  src: local(""), url("fonts/roboto-v29-latin-regular.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("fonts/roboto-v29-latin-regular.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("fonts/roboto-v29-latin-regular.woff") format("woff"),
+    /* Modern Browsers */ url("fonts/roboto-v29-latin-regular.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("fonts/roboto-v29-latin-regular.svg#Roboto") format("svg"); /* Legacy iOS */
+}
+
+.language-shell {
+  color: #000000;
+}
+
+.blog-md {
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-subtitle-1,
+  .font-subtitle-2,
+  .font-subtitle-3,
+  .font-subtitle-3-uppercase,
+  .font-subtitle-3-bold,
+  .font-subtitle-3-regular,
+  .font-subtitle-4,
+  a,
+  p,
+  li,
+  .font-body-2-bold,
+  .font-body-2-regular,
+  .font-button,
+  .font-button-bold,
+  .font-button-regular {
+    color: black;
+  }
+}
+
+.blog-md {
+  a {
+    color: #ff5e18;
+    text-decoration: underline;
+  }
+}
+
+.dark {
+  .blog-md {
+    a {
+      color: #ff5e18;
+      text-decoration: underline;
+    }
+  }
+}
+
+.dark {
+  .blog-md {
+    h1,
+    h2,
+    h3,
+    h4,
+    .font-subtitle-1,
+    .font-subtitle-2,
+    .font-subtitle-3,
+    .font-subtitle-3-uppercase,
+    .font-subtitle-3-bold,
+    .font-subtitle-3-regular,
+    .font-subtitle-4,
+    p,
+    li,
+    .font-body-2-bold,
+    .font-body-2-regular,
+    .font-button,
+    .font-button-bold,
+    .font-button-regular {
+      color: black;
+    }
+  }
+}
+
+.dark {
+  h1,
+  h2,
+  h3,
+  h4,
+  .font-subtitle-1,
+  .font-subtitle-2,
+  .font-subtitle-3,
+  .font-subtitle-3-uppercase,
+  .font-subtitle-3-bold,
+  .font-subtitle-3-regular,
+  .font-subtitle-4,
+  a,
+  p,
+  li,
+  .font-body-2-bold,
+  .font-body-2-regular,
+  .font-button,
+  .font-button-bold,
+  .font-button-regular {
+    color: white;
+  }
+}
+
+h1 {
+  font-family: "Vinila Extended Bold";
+  font-size: 120px;
+}
+
+h2 {
+  font-family: "Vinila Extended Bold";
+  font-size: 96px;
+}
+
+h3 {
+  font-family: "Vinila Extended";
+  font-size: 70px;
+  b {
+    font-family: "Vinila Extended Bold";
+    font-size: 70px;
+  }
+}
+
+h4 {
+  font-family: "Vinila Extended Light";
+  font-size: 56px;
+  b {
+    font-family: "Vinila Extended Bold";
+    font-size: 56px;
+  }
+}
+
+.font-subtitle-1 {
+  font-family: "Vinila Extended Light";
+  font-size: 56px;
+}
+
+.font-subtitle-2 {
+  font-family: "Vinila Extended";
+  font-size: 32px;
+}
+
+.font-subtitle-3 {
+  font-family: "Vinila Extended Bold";
+  font-size: 24px;
+}
+
+.font-subtitle-3-uppercase {
+  font-family: "Roboto";
+  text-transform: uppercase;
+  font-size: 24px;
+}
+
+.font-subtitle-3-bold {
+  font-family: "Roboto";
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.font-subtitle-3-regular {
+  font-family: "Roboto";
+  font-size: 24px;
+}
+
+.font-subtitle-4 {
+  font-family: "Roboto";
+  font-size: 20px;
+}
+
+a,
+p,
+li {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.font-body-2-bold {
+  font-family: "Roboto";
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.font-body-2-regular {
+  font-family: "Roboto";
+  font-size: 14px;
+}
+
+.font-button {
+  font-family: "Vinila Extended Bold";
+  font-size: 18px;
+}
+
+.font-button-bold {
+  font-family: "Vinila Extended Bold";
+  font-size: 16px;
+}
+
+.font-button-regular {
+  font-family: "Vinila Extended";
+  font-size: 16px;
+}
+
+@media screen and (max-width: $md) {
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  h3 {
+    font-size: 32px;
+    b {
+      font-size: 32px;
+    }
+  }
+
+  h4 {
+    font-size: 24px;
+    b {
+      font-size: 24px;
+    }
+  }
+
+  .font-subtitle-1 {
+    font-size: 24px;
+  }
+
+  .font-subtitle-2 {
+    font-size: 16px;
+  }
+
+  .font-subtitle-3 {
+    font-size: 16px;
+  }
+
+  .font-subtitle-3-uppercase {
+    font-size: 16px;
+  }
+
+  .font-subtitle-3-bold {
+    font-size: 16px;
+  }
+
+  .font-subtitle-3-regular {
+    font-size: 16px;
+  }
+
+  .font-subtitle-4 {
+    font-size: 14px;
+  }
+
+  a,
+  p,
+  li {
+    font-size: 14px;
+  }
+
+  .font-body-2-bold {
+    font-size: 14px;
+  }
+
+  .font-body-2-regular {
+    font-size: 14px;
+  }
+
+  .font-button {
+    font-size: 16px;
+  }
+
+  .font-button-bold {
+    font-size: 14px;
+  }
+
+  .font-button-regular {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: $xs) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 32px;
+  }
+}

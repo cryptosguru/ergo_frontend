@@ -1,0 +1,144 @@
+@import "./_variables.scss";
+
+.not-found-frame-1 {
+    position: absolute;
+    width: 1010px;
+    height: 634px;
+    left: 0px;
+    top: 300px;
+    background: no-repeat url("/assets/not-found/frame-1.png");
+}
+
+.dark .not-found-frame-1 {
+    background: no-repeat url("/assets/not-found/frame-1.png");
+}
+
+.not-found-frame-2 {
+    position: absolute;
+    width: 281px;
+    height: 281px;
+    left: 150px;    
+    top: 450px;
+    background: no-repeat url("/assets/not-found/frame-2-light.png");
+}
+
+.dark .not-found-frame-2 {
+    background: no-repeat url("/assets/not-found/frame-2.png");
+}
+
+.not-found-frame-3 {
+    position: absolute;
+    width: 375px;
+    height: 375px;
+    top: 250px;
+    left: 400px;
+    background: no-repeat url("/assets/not-found/frame-3-light.png");
+}
+
+.dark .not-found-frame-3 {
+    background: no-repeat url("/assets/not-found/frame-3.png");
+}
+
+.not-found-frame-4 {
+    position: absolute;
+    width: 327px;
+    height: 323px;
+    top: 350px;
+    left: 700px;
+    background: no-repeat url("/assets/not-found/frame-4-light.png");
+}
+
+.dark .not-found-frame-4 {
+    background: no-repeat url("/assets/not-found/frame-4.png");
+}
+
+.not-found-frame-5 {
+    position: absolute;
+    width: 179px;
+    height: 179px;
+    top: 550px;
+    left: 650px;
+    background: no-repeat url("/assets/not-found/frame-5-light.png");
+}
+
+.dark .not-found-frame-5 {
+    background: no-repeat url("/assets/not-found/frame-5.png");
+}
+
+.not-found-blur-1 {
+    position: absolute;
+    width: 699px;
+    height: 895px;
+    top: 0px;
+    left: 0px;
+    background: no-repeat url("/assets/not-found/blur-1.svg");
+}
+
+.dark .not-found-blur-1 {
+    background: no-repeat url("/assets/not-found/blur-1.svg");
+}
+
+.not-found-blur-2 {
+    position: absolute;
+    width: 755px;
+    height: 716px;
+    bottom: 0px;
+    right: 0px;
+    background: no-repeat url("/assets/not-found/blur-2.svg");
+}
+.dark .not-found-blur-2 { 
+    background: no-repeat url("/assets/not-found/blur-2.svg");
+}
+
+@media screen and (max-width: $lg) {
+
+    .not-found-blur-1 {
+        transform: scale(0.5);
+        transform-origin: top left;        
+    }
+
+    .not-found-blur-2 {
+        transform: scale(0.5);
+        transform-origin: bottom right;;        
+    }
+
+    .not-found-frame-1 {
+        transform: scale(0.45);
+        transform-origin: top left;
+        top: 200px;
+    }
+    .not-found-frame-2 {
+        transform: scale(0.5);
+        transform-origin: top left;
+        top: 320px;
+        left: 30px
+    }
+    .not-found-frame-3 {
+        transform: scale(0.5);
+        transform-origin: top left;
+        top: 180px;
+        left: 140px
+
+    }
+    .not-found-frame-4 {
+        transform: scale(0.5);
+        transform-origin: top left;
+        top: 230px;
+        left: 300px;
+    }
+    .not-found-frame-5 {
+        transform: scale(0.5);
+        transform-origin: top left;
+        top: 350px;
+        left: 280px;
+    }
+
+    // .not-found-blur-1 {
+    //     transform: scale(0.5);
+    //     transform-origin: top left;        
+    // }
+    // .not-found-blur-2 {
+    //     transform: scale(0.5);
+    //     transform-origin: bottom right;
+    // }
+}

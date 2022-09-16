@@ -1,0 +1,630 @@
+{
+  "components.ContributeForm.company.subTitle": [
+    {
+      "type": 0,
+      "value": "AKAR PARTNERRÉ VÁLNI?"
+    }
+  ],
+  "components.ContributeForm.company.title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Cégeknek"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.developer.subTitle": [
+    {
+      "type": 0,
+      "value": "HOGYAN TUDOK HOZZÁJÁRULNI?"
+    }
+  ],
+  "components.ContributeForm.developer.title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Fejlesztőknek"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.text": [
+    {
+      "type": 0,
+      "value": "Ergo egy olyan nyitott modellt követ, ahol "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "bárkit tárt karokkal várnak, hogy hozzájáruljon."
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.title": [
+    {
+      "type": 0,
+      "value": "Hozzájárulás"
+    }
+  ],
+  "components.DApps.seeAllProjects": [
+    {
+      "type": 0,
+      "value": "ÖSSZES PROJEKT MEGTEKINTÉSE"
+    }
+  ],
+  "components.Sigmanauts.button": [
+    {
+      "type": 0,
+      "value": "OLVASS TÖBBET & JELENTKEZZ"
+    }
+  ],
+  "components.Sigmanauts.button.buttonContribute": [
+    {
+      "type": 0,
+      "value": "IRÁNYELVEK A HOZZÁJÁRULÁSHOZ"
+    }
+  ],
+  "components.Sigmanauts.button.discord": [
+    {
+      "type": 0,
+      "value": "CSATLAKOZZ HOZZÁNK DISCORDON"
+    }
+  ],
+  "components.Sigmanauts.button.grantsAndBounties": [
+    {
+      "type": 0,
+      "value": "ADOMÁNYOK & JUTALMAK"
+    }
+  ],
+  "components.Sigmanauts.button.writeAndReviewCode": [
+    {
+      "type": 0,
+      "value": "MERÜLJ EL ERGOBAN"
+    }
+  ],
+  "components.Sigmanauts.formInput.button": [
+    {
+      "type": 0,
+      "value": "KÜLDÉS"
+    }
+  ],
+  "components.Sigmanauts.formInput.email": [
+    {
+      "type": 0,
+      "value": "E-Mail"
+    }
+  ],
+  "components.Sigmanauts.formInput.name": [
+    {
+      "type": 0,
+      "value": "Név / Cég"
+    }
+  ],
+  "components.Sigmanauts.formInput.text": [
+    {
+      "type": 0,
+      "value": "Írd meg javaslataidat és ötleteidet nekünk, beszéljünk!"
+    }
+  ],
+  "components.Sigmanauts.subTitle": [
+    {
+      "type": 0,
+      "value": "Tréningprogram"
+    }
+  ],
+  "components.Sigmanauts.text": [
+    {
+      "type": 0,
+      "value": "Jelentkezz a Sigmanaut Tréningprogramra és segítsd formázni és gyarapítani Ergo-t. "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " Készítsük el a közemberek pénzügyét."
+    }
+  ],
+  "components.Sigmanauts.title": [
+    {
+      "type": 0,
+      "value": "Sigmanauták"
+    }
+  ],
+  "components.Spotlight.button": [
+    {
+      "type": 0,
+      "value": "LÁSD AZ ÖSSZES HOZZÁSZOLÁST"
+    }
+  ],
+  "components.Spotlight.title": [
+    {
+      "type": 0,
+      "value": "Eredményeink"
+    }
+  ],
+  "components.autolykos.button": [
+    {
+      "type": 0,
+      "value": "ERG BÁNYÁSZÁSA"
+    }
+  ],
+  "components.autolykos.header": [
+    {
+      "type": 0,
+      "value": "AUTOLYKOS"
+    }
+  ],
+  "components.autolykos.text": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Autolykos"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " az alapja a memória-nehéz (memory-hard) ASIC ellenálló munka bizonyítékát használó algoritmusnak, amely GPU-k felé van orientálva."
+    }
+  ],
+  "components.autolykos.title": [
+    {
+      "type": 0,
+      "value": "A munka bizonyítéka (Proof of Work) jövője"
+    }
+  ],
+  "components.communityHero.subtitle": [
+    {
+      "type": 0,
+      "value": "KÖZEMBEREK PÉNZÜGYE"
+    }
+  ],
+  "components.discoverErgo.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo egy következő generációs munka bizonyítékot (Proof of Work) használó okos-szerződés platform, ami lehetővé tesz egy új pénzügyi interakciós modellt, alátámasztva egy biztonságos és gazdag szkript nyelvel, amely flexibilisen és Nulla-Tudás (Zero-Knowledge) bizonyítékokra (Σ-protokolok) van építve."
+    }
+  ],
+  "components.discoverHero.button1": [
+    {
+      "type": 0,
+      "value": "OLVASSA A DOKUMENTUMOKAT"
+    }
+  ],
+  "components.discoverHero.button2": [
+    {
+      "type": 0,
+      "value": "TANULJ DEVO-VAL"
+    }
+  ],
+  "components.discoverHero.button3": [
+    {
+      "type": 0,
+      "value": "OLVASD EL A KIÁLTVÁNYT"
+    }
+  ],
+  "components.discoverHero.button4": [
+    {
+      "type": 0,
+      "value": "NÉZD MEG A BLOGOT"
+    }
+  ],
+  "components.discoverHero.button5": [
+    {
+      "type": 0,
+      "value": "ELŐKÉSZÜLETEK"
+    }
+  ],
+  "components.discoverHero.button6": [
+    {
+      "type": 0,
+      "value": "LÁTOGAS EL ERGONAUT.SPACE-RE"
+    }
+  ],
+  "components.ergoExplorer.button1": [
+    {
+      "type": 0,
+      "value": "LÁNCFELFEDEZŐ"
+    }
+  ],
+  "components.ergoExplorer.button2": [
+    {
+      "type": 0,
+      "value": "ERGO.WATCH"
+    }
+  ],
+  "components.faq.text.2": [
+    {
+      "type": 0,
+      "value": "NEM TALÁLOD, "
+    },
+    {
+      "type": 1,
+      "value": "breakingLine"
+    },
+    {
+      "type": 0,
+      "value": " AMIT KERESTÉL?"
+    }
+  ],
+  "components.favorites.button1": [
+    {
+      "type": 0,
+      "value": "ERGO RAFFLE FELFEDEZÉSE"
+    }
+  ],
+  "components.grantsAndBounties.button1": [
+    {
+      "type": 0,
+      "value": "ADOMÁNYOK"
+    }
+  ],
+  "components.grantsAndBounties.button2": [
+    {
+      "type": 0,
+      "value": "TOMBOLA INDÍTÁSA"
+    }
+  ],
+  "components.grantsAndBounties.button3": [
+    {
+      "type": 0,
+      "value": "VEDD FEL VELÜNK A KAPCSOLATOT"
+    }
+  ],
+  "components.highlights.title": [
+    {
+      "type": 0,
+      "value": "EREDMÉNYEINK"
+    }
+  ],
+  "components.homeHero.button": [
+    {
+      "type": 0,
+      "value": "MERÜLJ EL"
+    }
+  ],
+  "components.homeHero.text": [
+    {
+      "type": 0,
+      "value": "Ergo egy következő-generációs okos szerződés (smart contract) platform, amely biztosítja a gazdasági szabadásgot az átlagembernek biztonságos elérhető és központosítatlan pénzügyi eszközökkel."
+    }
+  ],
+  "components.homeHero.title": [
+    {
+      "type": 0,
+      "value": "Hajtja a Pénzügyek Jövőjét"
+    }
+  ],
+  "components.homeInfo.blockReward": [
+    {
+      "type": 0,
+      "value": "BLOCK JUTALMAK"
+    }
+  ],
+  "components.homeInfo.circulatingSupply": [
+    {
+      "type": 0,
+      "value": "FORGALOMBAN LÉVŐ KÉSZLET"
+    }
+  ],
+  "components.homeInfo.hashRate": [
+    {
+      "type": 0,
+      "value": "HASÍTÁSI RÁTA"
+    }
+  ],
+  "components.homeInfo.transactionPerDay": [
+    {
+      "type": 0,
+      "value": "TRANZAKCIÓK NAPONTA"
+    }
+  ],
+  "components.mining.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo bányászata Autolykos algoritmuson alapszik, amely egy ASIC ellenálló munka bizonyítéka (Proof of Work) algoritmus, Scala-ban írva. A többi algoritmusnál alacsonyabb hőfokon futtatható a legtöbb alsókategóriás videókártyán, növelve a bányászási berendezés élettartamát. Az eUTOXO modellel és a komplex számolások láncon kívüli elvégzésének kombinálásával egy hatékony munka bizonyíték (Proof of Work) modell jön létre."
+    }
+  ],
+  "components.mining.text.2": [
+    {
+      "type": 0,
+      "value": "Üdvözöljük a munka bizonyítékának jövőjében."
+    }
+  ],
+  "components.mining.text.3": [
+    {
+      "type": 0,
+      "value": "Kezdésképpen, csekkold a közösség-készítette Bányász Kézikönyvet, vagy csatlakozz a bányász társalgó közösségekbe"
+    }
+  ],
+  "components.roadmap.title": [
+    {
+      "type": 0,
+      "value": "Ütemterv"
+    }
+  ],
+  "footer.blog.title": [
+    {
+      "type": 0,
+      "value": "BLOG"
+    }
+  ],
+  "footer.community.1": [
+    {
+      "type": 0,
+      "value": "Csatlakozz csatornáinkhoz"
+    }
+  ],
+  "footer.community.2": [
+    {
+      "type": 0,
+      "value": "Sigmanauták"
+    }
+  ],
+  "footer.community.3": [
+    {
+      "type": 0,
+      "value": "Hozzájárulás Ergo-hoz"
+    }
+  ],
+  "footer.community.4": [
+    {
+      "type": 0,
+      "value": "Hírességek Csarnoka"
+    }
+  ],
+  "footer.community.5": [
+    {
+      "type": 0,
+      "value": "Ergo Alapítvány"
+    }
+  ],
+  "footer.community.title": [
+    {
+      "type": 0,
+      "value": "KÖZÖSSÉG"
+    }
+  ],
+  "footer.discover.1": [
+    {
+      "type": 0,
+      "value": "Szoftver Kiadványok"
+    }
+  ],
+  "footer.discover.2": [
+    {
+      "type": 0,
+      "value": "Adományok & Jutalmak"
+    }
+  ],
+  "footer.discover.3": [
+    {
+      "type": 0,
+      "value": "GYIK"
+    }
+  ],
+  "footer.discover.4": [
+    {
+      "type": 0,
+      "value": "Felfedezés"
+    }
+  ],
+  "footer.discover.5": [
+    {
+      "type": 0,
+      "value": "Dokumentumok"
+    }
+  ],
+  "footer.discover.title": [
+    {
+      "type": 0,
+      "value": "FELFEDEZÉS"
+    }
+  ],
+  "footer.ecosystem.1": [
+    {
+      "type": 0,
+      "value": "DAppok"
+    }
+  ],
+  "footer.ecosystem.2": [
+    {
+      "type": 0,
+      "value": "Ütemterv"
+    }
+  ],
+  "footer.ecosystem.3": [
+    {
+      "type": 0,
+      "value": "Wiki"
+    }
+  ],
+  "footer.ecosystem.4": [
+    {
+      "type": 0,
+      "value": "Ergo Raffle"
+    }
+  ],
+  "footer.ecosystem.5": [
+    {
+      "type": 0,
+      "value": "Videó tartalmak"
+    }
+  ],
+  "footer.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "ÖKOSZISZTÉMA"
+    }
+  ],
+  "footer.getErg.1": [
+    {
+      "type": 0,
+      "value": "BÁNYÁSZAT"
+    }
+  ],
+  "footer.getErg.2": [
+    {
+      "type": 0,
+      "value": "BÁNYÁSZ KALKULÁTOR"
+    }
+  ],
+  "footer.getErg.3": [
+    {
+      "type": 0,
+      "value": "Tárcák"
+    }
+  ],
+  "footer.getErg.4": [
+    {
+      "type": 0,
+      "value": "Tőzsdék"
+    }
+  ],
+  "footer.getErg.title": [
+    {
+      "type": 0,
+      "value": "SZEREZZ ERG-ET"
+    }
+  ],
+  "footer.legal": [
+    {
+      "type": 0,
+      "value": "Legalitások"
+    }
+  ],
+  "footer.news.title": [
+    {
+      "type": 0,
+      "value": "HÍREK"
+    }
+  ],
+  "footer.privacyPolicy": [
+    {
+      "type": 0,
+      "value": "Adatvédelmi nyilatkozat"
+    }
+  ],
+  "footer.weGotIt": [
+    {
+      "type": 0,
+      "value": "Képesek vagyunk rá!"
+    }
+  ],
+  "navigation.discover": [
+    {
+      "type": 0,
+      "value": "FELFEDEZÉS"
+    }
+  ],
+  "navigation.ecosystem": [
+    {
+      "type": 0,
+      "value": "ÖKOSZISZTÉMA"
+    }
+  ],
+  "navigation.ergoCommunity": [
+    {
+      "type": 0,
+      "value": "ERGO KÖZÖSSÉG"
+    }
+  ],
+  "navigation.getErg": [
+    {
+      "type": 0,
+      "value": "SZEREZZ ERG-ET"
+    }
+  ],
+  "navigation.moreContent": [
+    {
+      "type": 0,
+      "value": "További tartalom?"
+    }
+  ],
+  "pages.404.hero": [
+    {
+      "type": 0,
+      "value": "404. Oldal Nem Található."
+    }
+  ],
+  "pages.404.title": [
+    {
+      "type": 0,
+      "value": "Nem Található"
+    }
+  ],
+  "pages.blog.title": [
+    {
+      "type": 0,
+      "value": "Blog"
+    }
+  ],
+  "pages.community.title": [
+    {
+      "type": 0,
+      "value": "Közösség"
+    }
+  ],
+  "pages.discover.title": [
+    {
+      "type": 0,
+      "value": "Láncfelfedező"
+    }
+  ],
+  "pages.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "Ekoszisztéma"
+    }
+  ],
+  "pages.get-erg.title": [
+    {
+      "type": 0,
+      "value": "GetErg"
+    }
+  ],
+  "pages.home.title": [
+    {
+      "type": 0,
+      "value": "Fő oldal"
+    }
+  ],
+  "pages.legal.title": [
+    {
+      "type": 0,
+      "value": "Legalitások"
+    }
+  ],
+  "pages.mobile-wallets": [
+    {
+      "type": 0,
+      "value": "Mobil tárcák"
+    }
+  ],
+  "pages.privacyPolicy.title": [
+    {
+      "type": 0,
+      "value": "Adatvédelmi nyilatkozat"
+    }
+  ]
+}

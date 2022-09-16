@@ -1,0 +1,29 @@
+.card.active {
+  flex-grow: 1.5;
+  margin: 0;
+  max-width: 100%;
+  background-color: #ffffff;
+
+  .label {
+    transform: translate(0.5rem, -0.5rem);
+
+    .content > * {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+}
+
+.card.active .temphide {
+  display: block;
+  transform: translateY(0);
+}
+.dark .card.active {
+  background-color: #2a2a2a;
+}
+
+.transition-base {
+  transition-duration: 700ms;
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.2, 1, 0.25, 1);
+}

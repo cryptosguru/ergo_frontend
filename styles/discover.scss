@@ -1,0 +1,133 @@
+@import "./_variables.scss";
+
+.discover-frame-1 {
+  position: absolute;
+  width: 925px;
+  height: 1456px;
+  top: 150px;
+  right: 0px;
+  background: no-repeat url("/assets/discover/frame-1-light.png");
+}
+
+.dark .discover-frame-1 {
+  position: absolute;
+  width: 925px;
+  height: 1456px;
+  top: 150px;
+  right: 0px;
+  background: no-repeat url("/assets/discover/frame-1.png");
+}
+
+.discover-frame-2 {
+  position: absolute;
+  width: 535px;
+  height: 1427px;
+  left: 0px;
+  top: 1300px;
+  background: no-repeat url("/assets/discover/frame-2-light.png");
+}
+
+.dark .discover-frame-2 {
+  position: absolute;
+  width: 537px;
+  height: 1420px;
+  left: 0px;
+  top: 1300px;
+  background: no-repeat url("/assets/discover/frame-2.png");
+}
+
+.discover-frame-3 {
+  position: absolute;
+  width: 1058px;
+  height: 1508px;
+  top: 3500px;
+  right: 0px;
+  background: no-repeat url("/assets/discover/frame-3-light.png");
+}
+
+.dark .discover-frame-3 {
+  position: absolute;
+  width: 760px;
+  height: 999px;
+  top: 3300px;
+  right: 0px;
+  background: no-repeat url("/assets/discover/frame-3.png");
+}
+
+.discover-blur-1 {
+  position: absolute;
+  width: 470px;
+  height: 2396px;
+  top: 1500px;
+  left: 0px;
+  background: no-repeat url("/assets/discover/blur-1-light.svg");
+  mix-blend-mode: overlay;
+}
+
+.dark .discover-blur-1 {
+  position: absolute;
+  width: 470px;
+  height: 2396px;
+  top: 1500px;
+  left: 0px;
+  background: no-repeat url("/assets/discover/blur-1-fixed.svg");
+  mix-blend-mode: overlay;
+}
+
+.discover-blur-2 {
+  position: absolute;
+  width: 527px;
+  height: 1598px;
+  top: 3500px;
+  left: 0px;
+  background: no-repeat url("/assets/discover/blur-2-fixed.svg");
+  mix-blend-mode: unset;
+}
+
+
+@media screen and (max-width: $md) {
+  .discover-frame-1 {
+    display: none;
+  }
+  .discover-frame-2 {
+    transform: scale(0.5);
+    transform-origin: top left;
+  }
+  .discover-frame-3 {
+    transform: scale(0.5);
+    transform-origin: top right;
+  }
+
+  .discover-blur-1, .discover-blur-2 {
+    display: none;
+  }
+
+  .discover-blur-3 {
+    position: absolute;
+    width: 375px;
+    height: 340px;
+    top: 0px;
+    left: 0px;
+    background: no-repeat url("/assets/discover/blur-3-fixed.svg");
+  }
+
+  .dark .discover-blur-3 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: $sm) {
+  .discover-img {
+    svg { 
+      position: absolute;
+      width: 510px;
+      right: -30px;
+      top: -65px;
+      height: 385px;
+    }
+  }
+
+  .discover-container {
+    margin-top: 300px;
+  }
+}

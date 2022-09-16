@@ -1,0 +1,30 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "extends": [
+    "next/core-web-vitals",
+    "eslint:recommended",
+    "plugin:prettier/recommended",
+    "prettier"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json",
+    "ecmaVersion": 2020, // Allows for the parsing of modern ECMAScript features
+    "sourceType": "module", // Allows for the use of imports
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "off",
+    "no-unused-vars": "off",
+    "prettier/prettier": [
+      0,
+      {
+        "singleQuote": true,
+        "trailingComma": "all",
+        "arrowParens": "always",
+        "printWidth": 100
+      }
+    ]
+  }
+}

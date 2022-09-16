@@ -1,0 +1,140 @@
+@import "./_variables.scss";
+
+.ecosystem-frame-1 {
+  position: absolute;
+  width: 1088px;
+  height: 1382px;
+  top: 2900px;
+  right: 0px;
+  background: no-repeat url("/assets/ecosystem/frame-1-light.png");
+}
+
+.dark .ecosystem-frame-1 {
+  position: absolute;
+  width: 1088px;
+  height: 1382px;
+  top: 2900px;
+  right: 0px;
+  background: no-repeat url("/assets/ecosystem/frame-1.png");
+}
+
+.ecosystem-frame-2 {
+  position: absolute;
+  width: 145px;
+  height: 1143px;
+  right: 0px;
+  top: 2800px;
+  background: no-repeat url("/assets/ecosystem/frame-2-light.png");
+}
+
+.dark .ecosystem-frame-2 {
+  position: absolute;
+  width: 145px;
+  height: 1143px;
+  right: 0px;
+  top: 2800px;
+  background: no-repeat url("/assets/ecosystem/frame-2.png");
+}
+
+.ecosystem-frame-3 {
+  position: absolute;
+  width: 102px;
+  height: 946px;
+  top: 2800px;
+  right: 0px;
+  background: no-repeat url("/assets/ecosystem/frame-3-light.png");
+}
+
+.dark .ecosystem-frame-3 {
+  position: absolute;
+  width: 102px;
+  height: 946px;
+  top: 2800px;
+  right: 0px;
+  background: no-repeat url("/assets/ecosystem/frame-3.png");
+}
+
+.dark .ecosystem-frame-4, .dark .ecosystem-frame-5, .ecosystem-frame-4, .ecosystem-frame-5 { display: none ;}
+
+.ecosystem-blur-1 {
+  position: absolute;
+  width: 793px;
+  height: 1014px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/ecosystem/blur-1-fixed.svg");
+}
+
+.ecosystem-blur-2 {
+  position: absolute;
+  width: 619px;
+  height: 1598px;
+  top: 2400px;
+  left: 0px;
+  background: no-repeat url("/assets/ecosystem/blur-2-light.svg");
+}
+
+.dark .ecosystem-blur-2 {
+  position: absolute;
+  width: 619px;
+  height: 1598px;
+  top: 2400px;
+  left: 0px;
+  background: no-repeat url("/assets/ecosystem/blur-2-fixed.svg");
+}
+
+
+@media screen and (max-width: $md) {
+  .ecosystem-frame-1 {
+    display: none;
+  }
+  .ecosystem-frame-2 {
+    display: none;
+  }
+  .ecosystem-frame-3 {
+    display: none;
+  }
+  .dark .ecosystem-frame-4 {
+    display: block;
+    position: absolute;
+    width: 375px;
+    height: 86px;
+    top: 210px;
+    left: 0px;
+    background: no-repeat url("/assets/ecosystem/frame-4.png");
+  }
+  .dark .ecosystem-frame-5 {
+    display: block;
+    position: absolute;
+    width: 375px;
+    height: 139px;
+    top: 170px;
+    right: 0px;
+    background: no-repeat url("/assets/ecosystem/frame-5.png");
+  }
+
+  .ecosystem-blur-1, .ecosystem-blur-2 {
+    display: none;
+  }
+
+  .ecosystem-blur-3 {
+    position: absolute;
+    width: 298px;
+    height: 541px;
+    top: 0px;
+    left: 0px;
+    background: no-repeat url("/assets/ecosystem/blur-3-fixed.svg");
+  }
+
+}
+
+@media screen and (max-width: $sm) {
+  .ecosystem-frame-4, .dark .ecosystem-frame-4 {
+    display: none;
+  }
+  .ecosystem-blur-3, .dark .ecosystem-blur-3 {
+    transform: scale(0.8);
+    left: -30px;
+    top: -56px;
+  }
+}

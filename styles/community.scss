@@ -1,0 +1,311 @@
+@import "./_variables.scss";
+
+.community-frame-1 {
+  position: absolute;
+  width: 1465px;
+  height: 324px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-1-light.png");
+}
+
+.dark .community-frame-1 {
+  position: absolute;
+  width: 1465px;
+  height: 324px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-1.png");
+}
+
+.community-frame-2 {
+  position: absolute;
+  width: 591px;
+  height: 325px;
+  right: 0px;
+  top: 0px;
+  background: no-repeat url("/assets/community/frame-2-light.png");
+}
+
+.dark .community-frame-2 {
+  position: absolute;
+  width: 591px;
+  height: 325px;
+  right: 0px;
+  top: 0px;
+  background: no-repeat url("/assets/community/frame-2.png");
+}
+
+.community-frame-3 {
+  position: absolute;
+  width: 1318px;
+  height: 484px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-3-light.png");
+}
+
+.dark .community-frame-3 {
+  position: absolute;
+  width: 1314px;
+  height: 484px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-3.png");
+}
+
+.community-frame-4 {
+  position: absolute;
+  width: 167px;
+  height: 1265px;
+  top: 750px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-4-light.png");
+}
+
+.dark .community-frame-4 {
+  position: absolute;
+  width: 167px;
+  height: 1265px;
+  top: 750px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-4.png");
+}
+
+.community-frame-5 {
+  position: absolute;
+  width: 438px;
+  height: 674px;
+  top: 3200px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-5-light.png");
+}
+
+.dark .community-frame-5 {
+  position: absolute;
+  width: 401px;
+  height: 482px;
+  top: 3200px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-5.png");
+}
+
+.community-frame-6 {
+  position: absolute;
+  width: 129px;
+  height: 946px;
+  top: 3200px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-6-light.png");
+}
+
+.dark .community-frame-6 {
+  position: absolute;
+  width: 129px;
+  height: 946px;
+  top: 3200px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-6.png");
+}
+
+.community-frame-7 {
+  position: absolute;
+  width: 558px;
+  height: 964px;
+  top: 4725px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-7-light.png");
+}
+
+.dark .community-frame-7 {
+  position: absolute;
+  width: 558px;
+  height: 964px;
+  top: 4725px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-7.png");
+}
+
+.community-frame-8 {
+  position: absolute;
+  width: 1148px;
+  height: 772px;
+  top: 6236px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-8-light.png");
+}
+
+.dark .community-frame-8 {
+  position: absolute;
+  width: 1148px;
+  height: 772px;
+  top: 6236px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-8.png");
+}
+
+.community-frame-9 {
+  position: absolute;
+  width: 157px;
+  height: 1064px;
+  top: 5700px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-9-light.png");
+}
+
+.dark .community-frame-9 {
+  position: absolute;
+  width: 157px;
+  height: 1064px;
+  top: 5700px;
+  right: 0px;
+  background: no-repeat url("/assets/community/frame-9.png");
+}
+
+.community-frame-10 {
+  position: absolute;
+  width: 391px;
+  height: 461px;
+  top: 6200px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-10-light.png");
+}
+
+.dark .community-frame-10 {
+  position: absolute;
+  width: 391px;
+  height: 461px;
+  top: 6200px;
+  left: 0px;
+  background: no-repeat url("/assets/community/frame-10.png");
+}
+
+.community-blur-1 {
+  position: absolute;
+  width: 844px;
+  height: 1058px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/blur-1-light.svg");
+}
+
+.dark .community-blur-1 {
+  position: absolute;
+  width: 847px;
+  height: 1058px;
+  top: 0px;
+  right: 0px;
+  background: no-repeat url("/assets/community/blur-1-fixed.svg");
+}
+
+.community-blur-2 {
+  position: absolute;
+  width: 599px;
+  height: 1677px;
+  top: 2400px;
+  left: 0px;
+  background: no-repeat url("/assets/community/blur-2-light.svg");
+}
+
+.dark .community-blur-2 {
+  position: absolute;
+  width: 645px;
+  height: 1677px;
+  top: 2400px;
+  left: 0px;
+  background: no-repeat url("/assets/community/blur-2-fixed.svg");
+}
+
+@media screen and (max-width: $xl) {
+  .dark .community-frame-8,
+  .community-frame-8 {
+    transform: scale(0.5);
+    transform-origin: center left;
+    top: 5400px;
+  }
+}
+
+@media screen and (max-width: $lg) {
+  .dark .community-frame-8,
+  .community-frame-8 {
+    transform: scale(0.4);
+    transform-origin: center left;
+    top: 5400px;
+  }
+}
+
+
+@media screen and (max-width: $md) {
+  .community-frame-1 {
+    transform: scale(0.5);
+    transform-origin: top right;
+  }
+  .community-frame-2 {
+    transform: scale(0.5);
+    transform-origin: top right;
+  }
+  .community-frame-3 {
+    transform: scale(0.5);
+    transform-origin: top right;
+  }
+  .community-frame-4 {
+    transform: scale(0.5);
+    transform-origin: center left;
+    top: 500px;
+  }
+  .community-frame-5 {
+    transform: scale(0.5);
+    transform-origin: center left;
+  }
+  .dark .community-frame-6,
+  .community-frame-6 {
+    transform: scale(0.5);
+    transform-origin: center right;
+    top: 3200px;
+  }
+  .dark .community-frame-7,
+  .community-frame-7 {
+    transform: scale(0.5);
+    transform-origin: center right;
+    top: 3900px;
+  }
+  .dark .community-frame-8,
+  .community-frame-8 {
+    transform: scale(0.3);
+    transform-origin: center left;
+    top: 4733px;
+  }
+  .dark .community-frame-9,
+  .community-frame-9 {
+    transform: scale(0.5);
+    transform-origin: center right;
+    top: 4200px;
+  }
+  .dark .community-frame-10,
+  .community-frame-10 {
+    transform: scale(0.5);
+    transform-origin: center left;
+    top: 5278px;
+  }
+  .community-blur-1 {
+    transform: scale(0.5);
+    transform-origin: top right;        
+  }
+  .community-blur-2 {
+    transform: scale(0.5);
+    transform-origin: center left;        
+  }
+}
+
+@media screen and (max-width: $sm) {
+  .dark .community-frame-8,
+  .community-frame-8 {
+    transform: scale(0.2);
+    transform-origin: center left;
+    top: 4733px;
+  }
+  .community-blur-2 {
+    transform: scale(0.3);
+    transform-origin: center left;        
+  }
+}

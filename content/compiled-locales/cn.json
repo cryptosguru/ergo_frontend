@@ -1,0 +1,996 @@
+{
+  "components.ContributeForm.company.subTitle": [
+    {
+      "type": 0,
+      "value": "想要成为合作伙伴？"
+    }
+  ],
+  "components.ContributeForm.company.title": [
+    {
+      "type": 0,
+      "value": "我是一家"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "公司"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.developer.subTitle": [
+    {
+      "type": 0,
+      "value": "我可以如何做贡献？"
+    }
+  ],
+  "components.ContributeForm.developer.title": [
+    {
+      "type": 0,
+      "value": "我是一名"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "开发者"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.text": [
+    {
+      "type": 0,
+      "value": "Ergo以开放模式运作，"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "欢迎任何人来做贡献。"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.title": [
+    {
+      "type": 0,
+      "value": "贡献"
+    }
+  ],
+  "components.DApps.seeAllProjects": [
+    {
+      "type": 0,
+      "value": "查看全部项目"
+    }
+  ],
+  "components.Sigmanauts.button": [
+    {
+      "type": 0,
+      "value": "阅读更多并申请"
+    }
+  ],
+  "components.Sigmanauts.button.buttonContribute": [
+    {
+      "type": 0,
+      "value": "贡献指南"
+    }
+  ],
+  "components.Sigmanauts.button.discord": [
+    {
+      "type": 0,
+      "value": "来Discord加入我们"
+    }
+  ],
+  "components.Sigmanauts.button.grantsAndBounties": [
+    {
+      "type": 0,
+      "value": "补助金与赏金"
+    }
+  ],
+  "components.Sigmanauts.button.writeAndReviewCode": [
+    {
+      "type": 0,
+      "value": "深入了解ERGO"
+    }
+  ],
+  "components.Sigmanauts.formInput.button": [
+    {
+      "type": 0,
+      "value": "发送"
+    }
+  ],
+  "components.Sigmanauts.formInput.email": [
+    {
+      "type": 0,
+      "value": "E-Mail"
+    }
+  ],
+  "components.Sigmanauts.formInput.name": [
+    {
+      "type": 0,
+      "value": "姓名/公司"
+    }
+  ],
+  "components.Sigmanauts.formInput.text": [
+    {
+      "type": 0,
+      "value": "把您的建议和想法写给我们，让我们谈谈！"
+    }
+  ],
+  "components.Sigmanauts.subTitle": [
+    {
+      "type": 0,
+      "value": "培训计划"
+    }
+  ],
+  "components.Sigmanauts.text": [
+    {
+      "type": 0,
+      "value": "申请Sigmanaut培训计划以帮助塑造和发展Ergo。"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": "我们来共建草根金融吧。"
+    }
+  ],
+  "components.Sigmanauts.title": [
+    {
+      "type": 0,
+      "value": "Sigmanaut"
+    }
+  ],
+  "components.Spotlight.button": [
+    {
+      "type": 0,
+      "value": "查看全部文章"
+    }
+  ],
+  "components.Spotlight.title": [
+    {
+      "type": 0,
+      "value": "焦点内容"
+    }
+  ],
+  "components.autolykos.button": [
+    {
+      "type": 0,
+      "value": "挖掘ERG"
+    }
+  ],
+  "components.autolykos.header": [
+    {
+      "type": 0,
+      "value": "AUTOLYKOS"
+    }
+  ],
+  "components.autolykos.text": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Autolykos"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "是面向GPU的底层内存高占用抗ASIC工作量证明算法。"
+    }
+  ],
+  "components.autolykos.title": [
+    {
+      "type": 0,
+      "value": "工作量证明的未来"
+    }
+  ],
+  "components.communityHero.subtitle": [
+    {
+      "type": 0,
+      "value": "草根金融"
+    }
+  ],
+  "components.discoverErgo.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo是下一代工作量证明智能合约平台，它以安全且丰富的脚本语言为基础支持全新的金融交互模型，而该脚本语言是用灵活而强大的零知识证明（西格玛协议）构建。"
+    }
+  ],
+  "components.discoverHero.button1": [
+    {
+      "type": 0,
+      "value": "阅读文档"
+    }
+  ],
+  "components.discoverHero.button2": [
+    {
+      "type": 0,
+      "value": "来DECO学习"
+    }
+  ],
+  "components.discoverHero.button3": [
+    {
+      "type": 0,
+      "value": "阅读《宣言》"
+    }
+  ],
+  "components.discoverHero.button4": [
+    {
+      "type": 0,
+      "value": "查看博客"
+    }
+  ],
+  "components.discoverHero.button5": [
+    {
+      "type": 0,
+      "value": "获取设置"
+    }
+  ],
+  "components.discoverHero.button6": [
+    {
+      "type": 0,
+      "value": "访问ERGONAUT.SPACE"
+    }
+  ],
+  "components.ecosystemHero.title": [
+    {
+      "type": 0,
+      "value": "生态系统"
+    }
+  ],
+  "components.ergoExplorer.button1": [
+    {
+      "type": 0,
+      "value": "浏览器"
+    }
+  ],
+  "components.ergoExplorer.button2": [
+    {
+      "type": 0,
+      "value": "ERGO.WATCH"
+    }
+  ],
+  "components.ergofoundation.list1": [
+    {
+      "type": 0,
+      "value": "促进Ergo平台协议的"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "不间断开发"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "；"
+    }
+  ],
+  "components.ergofoundation.list2": [
+    {
+      "type": 0,
+      "value": "宣传Ergo平台及其"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "原生代币"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "（ERG）的广泛采用和使用；"
+    }
+  ],
+  "components.ergofoundation.list3": [
+    {
+      "type": 0,
+      "value": "围绕Ergo平台开发"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "生态系统"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "；"
+    }
+  ],
+  "components.ergofoundation.list4": [
+    {
+      "type": 0,
+      "value": "传播Ergo平台和区块链技术的使用，"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "造福社会"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "；"
+    }
+  ],
+  "components.ergofoundation.list5": [
+    {
+      "type": 0,
+      "value": "维护"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "真正去中心化的基础设施"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "，且；"
+    }
+  ],
+  "components.ergofoundation.list6": [
+    {
+      "type": 0,
+      "value": "支持将"
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "隐私"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "作为一项基本人权。"
+    }
+  ],
+  "components.ergofoundation.title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Ergo基金会"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": "是一个社区驱动的实体，专注于"
+    }
+  ],
+  "components.faq.text.2": [
+    {
+      "type": 0,
+      "value": "找不到"
+    },
+    {
+      "type": 1,
+      "value": "breakingLine"
+    },
+    {
+      "type": 0,
+      "value": "您在找的内容？"
+    }
+  ],
+  "components.favorites.button1": [
+    {
+      "type": 0,
+      "value": "探索ERGO RAFFLE"
+    }
+  ],
+  "components.grantsAndBounties.button1": [
+    {
+      "type": 0,
+      "value": "贡献"
+    }
+  ],
+  "components.grantsAndBounties.button2": [
+    {
+      "type": 0,
+      "value": "发起一个RAFFLE"
+    }
+  ],
+  "components.grantsAndBounties.button3": [
+    {
+      "type": 0,
+      "value": "联系我们"
+    }
+  ],
+  "components.hallOfFame.description1": [
+    {
+      "type": 0,
+      "value": "Ergo创始团队在加密货币和区块链框架（包括NXT、Scorex、Cardano和Waves）的核心开发方面拥有扎实背景。以下是ERGO核心团队部分成员以及参与其中的许多其他开发者和社区成员的简介，其中部分人员匿名。"
+    }
+  ],
+  "components.hallOfFame.description2": [
+    {
+      "type": 0,
+      "value": "Ergo是草根的，大多数核心团队成员（甚至基金会成员）都是从社区成员做起的。有关Ergo基金会的简短描述以及更多值得一读的信息，见此页面下方。"
+    }
+  ],
+  "components.hallOfFame.tab1": [
+    {
+      "type": 0,
+      "value": "核心"
+    }
+  ],
+  "components.hallOfFame.tab2": [
+    {
+      "type": 0,
+      "value": "社区"
+    }
+  ],
+  "components.hallOfFame.tab3": [
+    {
+      "type": 0,
+      "value": "基金会"
+    }
+  ],
+  "components.hallOfFame.title": [
+    {
+      "type": 0,
+      "value": "名人堂"
+    }
+  ],
+  "components.highlights.title": [
+    {
+      "type": 0,
+      "value": "亮点"
+    }
+  ],
+  "components.homeHero.button": [
+    {
+      "type": 0,
+      "value": "深入了解"
+    }
+  ],
+  "components.homeHero.text": [
+    {
+      "type": 0,
+      "value": "Ergo是下一代智能合约平台，通过安全、可访问且去中心化的金融工具确保普通人的经济自由。"
+    }
+  ],
+  "components.homeHero.title": [
+    {
+      "type": 0,
+      "value": "赋能金融未来"
+    }
+  ],
+  "components.homeInfo.blockReward": [
+    {
+      "type": 0,
+      "value": "区块奖励"
+    }
+  ],
+  "components.homeInfo.circulatingSupply": [
+    {
+      "type": 0,
+      "value": "流通量"
+    }
+  ],
+  "components.homeInfo.hashRate": [
+    {
+      "type": 0,
+      "value": "算力"
+    }
+  ],
+  "components.homeInfo.transactionPerDay": [
+    {
+      "type": 0,
+      "value": "每日交易笔数"
+    }
+  ],
+  "components.mining.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo挖矿基于Autolykos，这是一种公平启动的高效抗ASIC工作量证明算法。矿工可以通过链上投票来调整参数，更大的变动由绝对多数人通过软分叉实现，还可以参与任何令人激动的开发成果，例如投票代币、子矿池化和对数空间挖矿。Ergo专注于核心的简单性，并在应用层上构建有高级功能，以创造高适应力的合约币。"
+    }
+  ],
+  "components.mining.text.2": [
+    {
+      "type": 0,
+      "value": "欢迎加入工作量证明的未来。"
+    }
+  ],
+  "components.mining.text.3": [
+    {
+      "type": 0,
+      "value": "如要开始挖矿，请查阅社区编写的《挖矿指南》，或加入挖矿讨论空间。"
+    }
+  ],
+  "components.news.blog": [
+    {
+      "type": 0,
+      "value": "博客"
+    }
+  ],
+  "components.news.latest": [
+    {
+      "type": 0,
+      "value": "最新新闻"
+    }
+  ],
+  "components.news.title": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "components.ourmission.description": [
+    {
+      "type": 0,
+      "value": "Ergo基金会致力于Ergo平台协议的有机不间断开发。"
+    }
+  ],
+  "components.ourmission.emissionAndTokenomics": [
+    {
+      "type": 0,
+      "value": "释放和代币经济学"
+    }
+  ],
+  "components.ourmission.ergofoundation": [
+    {
+      "type": 0,
+      "value": "ERGO基金会"
+    }
+  ],
+  "components.ourmission.reachus.twitter": [
+    {
+      "type": 0,
+      "value": "来TWITTER联系我们"
+    }
+  ],
+  "components.ourmission.subdescription": [
+    {
+      "type": 0,
+      "value": "Ergo基金会致力于努力以尽可能少的宽松式许可证以开源方式完成有价值的生态系统开发的数量最大化。"
+    }
+  ],
+  "components.ourmission.title": [
+    {
+      "type": 0,
+      "value": "我们的使命"
+    }
+  ],
+  "components.roadmap.coinmarketcal": [
+    {
+      "type": 0,
+      "value": "进一步了解COINMARKETCAL"
+    }
+  ],
+  "components.roadmap.description": [
+    {
+      "type": 0,
+      "value": " 请注意，Ergo 是一个平台。下面列出的许多项目与Ergo基金会之间或二者之间彼此没有正式关联。"
+    }
+  ],
+  "components.roadmap.section1.title": [
+    {
+      "type": 0,
+      "value": "迄今为止"
+    }
+  ],
+  "components.roadmap.section2.title": [
+    {
+      "type": 0,
+      "value": "紧接下来"
+    }
+  ],
+  "components.roadmap.section3.title": [
+    {
+      "type": 0,
+      "value": "2022年及以后"
+    }
+  ],
+  "components.roadmap.title": [
+    {
+      "type": 0,
+      "value": "路线图"
+    }
+  ],
+  "components.uniqueErgo.card1.button": [
+    {
+      "type": 0,
+      "value": "探索"
+    }
+  ],
+  "components.uniqueErgo.card1.text": [
+    {
+      "type": 0,
+      "value": "Ergo借鉴了十年区块链开发经验，采用久经考验的原则，并结合了经同行评审、有关密码学、共识模型和数字货币的最佳学术研究。我们从扎实的区块链基础开始，并原生实现强大的全新密码学。"
+    }
+  ],
+  "components.uniqueErgo.card1.title": [
+    {
+      "type": 0,
+      "value": "以研究为主导，以现实为焦点"
+    }
+  ],
+  "components.uniqueErgo.card2.button": [
+    {
+      "type": 0,
+      "value": "探索"
+    }
+  ],
+  "components.uniqueErgo.card2.text": [
+    {
+      "type": 0,
+      "value": "Ergo为现实世界的金融协议提供卓越的支持。Ergo可以支持以已知成本可预测地运行的多功能dApp，且没有任何功能不受限制的危险。Ergo的智能合约允许我们执行各种各样的任务，且可以是图灵完备的，但我们总是提前知道代码的成本是多少以及它是否会成功运行。"
+    }
+  ],
+  "components.uniqueErgo.card2.title": [
+    {
+      "type": 0,
+      "value": "强大且安全"
+    }
+  ],
+  "components.uniqueErgo.card3.button": [
+    {
+      "type": 0,
+      "value": "探索"
+    }
+  ],
+  "components.uniqueErgo.card3.text": [
+    {
+      "type": 0,
+      "value": "西格玛协议（Σ-Protocol）是Ergo智能合约的基础。它们允许一类高效的零知识协议，使我们能够实现无法以其他方式完成、或者高风险、高费用的任务。欢迎使用自主的应用级隐私：可用于访问混币器或其他功能的无信任脚本，无需任何第三方。"
+    }
+  ],
+  "components.uniqueErgo.card3.title": [
+    {
+      "type": 0,
+      "value": "智能且简明"
+    }
+  ],
+  "components.uniqueErgo.card4.button": [
+    {
+      "type": 0,
+      "value": "探索"
+    }
+  ],
+  "components.uniqueErgo.card4.text": [
+    {
+      "type": 0,
+      "value": "不运行全节点的普通用户应当与矿工享有同等的安全性益处。工作量证明之非交互式证明（NiPoPoW）允许我们完全自信地进行并验证交易，而无需下载完整区块链所需的存储、带宽和时间。只需要少到1 MB的数据即可——这意味着可以使用任何设备。"
+    }
+  ],
+  "components.uniqueErgo.card4.title": [
+    {
+      "type": 0,
+      "value": "安全有保障且可访问"
+    }
+  ],
+  "components.uniqueErgo.title": [
+    {
+      "type": 0,
+      "value": "ERGO有何独特之处"
+    }
+  ],
+  "components.usingErg.description": [
+    {
+      "type": 0,
+      "value": "Ergo之上有一个丰富的生态系统正在萌芽。无论您是开发者、矿工还是投资者 —— 我们都欢迎您的加入。"
+    }
+  ],
+  "components.usingErg.subtitle": [
+    {
+      "type": 0,
+      "value": "DEFI势不可挡"
+    }
+  ],
+  "components.usingErg.title": [
+    {
+      "type": 0,
+      "value": "获取ERG"
+    }
+  ],
+  "footer.blog.title": [
+    {
+      "type": 0,
+      "value": "博客"
+    }
+  ],
+  "footer.community.1": [
+    {
+      "type": 0,
+      "value": "加入我们的频道"
+    }
+  ],
+  "footer.community.2": [
+    {
+      "type": 0,
+      "value": "Sigmanaut"
+    }
+  ],
+  "footer.community.3": [
+    {
+      "type": 0,
+      "value": "为Ergo做贡献"
+    }
+  ],
+  "footer.community.4": [
+    {
+      "type": 0,
+      "value": "名人堂"
+    }
+  ],
+  "footer.community.5": [
+    {
+      "type": 0,
+      "value": "Ergo基金会"
+    }
+  ],
+  "footer.community.title": [
+    {
+      "type": 0,
+      "value": "社区"
+    }
+  ],
+  "footer.discover.1": [
+    {
+      "type": 0,
+      "value": "软件发布"
+    }
+  ],
+  "footer.discover.2": [
+    {
+      "type": 0,
+      "value": "补助金&赏金"
+    }
+  ],
+  "footer.discover.3": [
+    {
+      "type": 0,
+      "value": "常见问答"
+    }
+  ],
+  "footer.discover.4": [
+    {
+      "type": 0,
+      "value": "探索"
+    }
+  ],
+  "footer.discover.5": [
+    {
+      "type": 0,
+      "value": "文档"
+    }
+  ],
+  "footer.discover.title": [
+    {
+      "type": 0,
+      "value": "发现"
+    }
+  ],
+  "footer.ecosystem.1": [
+    {
+      "type": 0,
+      "value": "去中心化应用"
+    }
+  ],
+  "footer.ecosystem.2": [
+    {
+      "type": 0,
+      "value": "路线图"
+    }
+  ],
+  "footer.ecosystem.3": [
+    {
+      "type": 0,
+      "value": "维基"
+    }
+  ],
+  "footer.ecosystem.4": [
+    {
+      "type": 0,
+      "value": "Ergo Raffle"
+    }
+  ],
+  "footer.ecosystem.5": [
+    {
+      "type": 0,
+      "value": "视频广播"
+    }
+  ],
+  "footer.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "生态系统"
+    }
+  ],
+  "footer.getErg.1": [
+    {
+      "type": 0,
+      "value": "挖矿"
+    }
+  ],
+  "footer.getErg.2": [
+    {
+      "type": 0,
+      "value": "挖矿计算器"
+    }
+  ],
+  "footer.getErg.3": [
+    {
+      "type": 0,
+      "value": "钱包"
+    }
+  ],
+  "footer.getErg.4": [
+    {
+      "type": 0,
+      "value": "交易所"
+    }
+  ],
+  "footer.getErg.title": [
+    {
+      "type": 0,
+      "value": "获取ERG"
+    }
+  ],
+  "footer.legal": [
+    {
+      "type": 0,
+      "value": "法律"
+    }
+  ],
+  "footer.news.title": [
+    {
+      "type": 0,
+      "value": "新闻"
+    }
+  ],
+  "footer.privacyPolicy": [
+    {
+      "type": 0,
+      "value": "隐私政策"
+    }
+  ],
+  "footer.weGotIt": [
+    {
+      "type": 0,
+      "value": "我们已获得它！"
+    }
+  ],
+  "navigation.discover": [
+    {
+      "type": 0,
+      "value": "发现"
+    }
+  ],
+  "navigation.ecosystem": [
+    {
+      "type": 0,
+      "value": "生态系统"
+    }
+  ],
+  "navigation.ergoCommunity": [
+    {
+      "type": 0,
+      "value": "ERGO社区"
+    }
+  ],
+  "navigation.getErg": [
+    {
+      "type": 0,
+      "value": "获取ERG"
+    }
+  ],
+  "navigation.moreContent": [
+    {
+      "type": 0,
+      "value": "更多内容？"
+    }
+  ],
+  "pages.404.hero": [
+    {
+      "type": 0,
+      "value": "404. 网页未找到。"
+    }
+  ],
+  "pages.404.title": [
+    {
+      "type": 0,
+      "value": "未找到"
+    }
+  ],
+  "pages.blog.title": [
+    {
+      "type": 0,
+      "value": "博客"
+    }
+  ],
+  "pages.community.title": [
+    {
+      "type": 0,
+      "value": "社区"
+    }
+  ],
+  "pages.discover.title": [
+    {
+      "type": 0,
+      "value": "发现"
+    }
+  ],
+  "pages.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "生态系统"
+    }
+  ],
+  "pages.get-erg.title": [
+    {
+      "type": 0,
+      "value": "获取Erg"
+    }
+  ],
+  "pages.home.title": [
+    {
+      "type": 0,
+      "value": "主页"
+    }
+  ],
+  "pages.legal.title": [
+    {
+      "type": 0,
+      "value": "法律"
+    }
+  ],
+  "pages.mobile-wallets": [
+    {
+      "type": 0,
+      "value": "移动钱包"
+    }
+  ],
+  "pages.privacyPolicy.title": [
+    {
+      "type": 0,
+      "value": "隐私政策"
+    }
+  ]
+}

@@ -1,0 +1,996 @@
+{
+  "components.ContributeForm.company.subTitle": [
+    {
+      "type": 0,
+      "value": "ХОТИТЕ СТАТЬ ПАРТНЕРОМ?"
+    }
+  ],
+  "components.ContributeForm.company.title": [
+    {
+      "type": 0,
+      "value": "Я представитель "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "компании"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.developer.subTitle": [
+    {
+      "type": 0,
+      "value": "ЧЕМ Я МОГУ ПОМОЧЬ?"
+    }
+  ],
+  "components.ContributeForm.developer.title": [
+    {
+      "type": 0,
+      "value": "Я "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "разработчик"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.text": [
+    {
+      "type": 0,
+      "value": "Мы открыты для сотрудничества, "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "любой может внести свой вклад."
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    }
+  ],
+  "components.ContributeForm.title": [
+    {
+      "type": 0,
+      "value": "Сотрудничество"
+    }
+  ],
+  "components.DApps.seeAllProjects": [
+    {
+      "type": 0,
+      "value": "ПОСМОТРЕТЬ ВСЕ ПРОЕКТЫ"
+    }
+  ],
+  "components.Sigmanauts.button": [
+    {
+      "type": 0,
+      "value": "УЗНАТЬ БОЛЬШЕ & ЗАПИСАТЬСЯ"
+    }
+  ],
+  "components.Sigmanauts.button.buttonContribute": [
+    {
+      "type": 0,
+      "value": "ПРАВИЛА СОТРУДНИЧЕСТВА"
+    }
+  ],
+  "components.Sigmanauts.button.discord": [
+    {
+      "type": 0,
+      "value": "ПРИСОЕДИНИТЕСЬ К НАМ В DISCORD"
+    }
+  ],
+  "components.Sigmanauts.button.grantsAndBounties": [
+    {
+      "type": 0,
+      "value": "ГРАНТЫ & НАГРАДЫ"
+    }
+  ],
+  "components.Sigmanauts.button.writeAndReviewCode": [
+    {
+      "type": 0,
+      "value": "ПОГРУЖЕНИЕ В ERGO"
+    }
+  ],
+  "components.Sigmanauts.formInput.button": [
+    {
+      "type": 0,
+      "value": "ОТПРАВИТЬ"
+    }
+  ],
+  "components.Sigmanauts.formInput.email": [
+    {
+      "type": 0,
+      "value": "E-Mail"
+    }
+  ],
+  "components.Sigmanauts.formInput.name": [
+    {
+      "type": 0,
+      "value": "Имя / Компания"
+    }
+  ],
+  "components.Sigmanauts.formInput.text": [
+    {
+      "type": 0,
+      "value": "Пишите нам ваши предложения и идеи, обсудим!"
+    }
+  ],
+  "components.Sigmanauts.subTitle": [
+    {
+      "type": 0,
+      "value": "Программа обучения"
+    }
+  ],
+  "components.Sigmanauts.text": [
+    {
+      "type": 0,
+      "value": "Подайте заявку на участие в программе обучения Сигманавтов, чтобы помочь формировать и развивать Ergo. "
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 1,
+      "value": "br"
+    },
+    {
+      "type": 0,
+      "value": " Создайте основу финансов будущего."
+    }
+  ],
+  "components.Sigmanauts.title": [
+    {
+      "type": 0,
+      "value": "Сигманавты"
+    }
+  ],
+  "components.Spotlight.button": [
+    {
+      "type": 0,
+      "value": "ПОСМОТРЕТЬ ВСЕ ЗАПИСИ"
+    }
+  ],
+  "components.Spotlight.title": [
+    {
+      "type": 0,
+      "value": "В центре внимания"
+    }
+  ],
+  "components.autolykos.button": [
+    {
+      "type": 0,
+      "value": "Майнинг ERGO"
+    }
+  ],
+  "components.autolykos.header": [
+    {
+      "type": 0,
+      "value": "AUTOLYKOS"
+    }
+  ],
+  "components.autolykos.text": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Autolykos"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " это, основанный на принципе «Доказательтве выполнения работы» (Proof of Work), алгоритм, требовательный к памяти, устойчивый к майнингу на ASIC и ориентированный на графические ускорители."
+    }
+  ],
+  "components.autolykos.title": [
+    {
+      "type": 0,
+      "value": "Будущее принципа «Доказательство выполнения работы» (Proof of Work)"
+    }
+  ],
+  "components.communityHero.subtitle": [
+    {
+      "type": 0,
+      "value": "ОСНОВА ФИНАНСОВ БУДУЩЕГО"
+    }
+  ],
+  "components.discoverErgo.text.1": [
+    {
+      "type": 0,
+      "value": "Ergo — это платформа смарт-контрактов следующего поколения, построенная на принципе «Доказательтве выполнения работы» (Proof of Work), которая позволяет использовать новые модели финансового взаимодействия, основанные на безопасном и богатом языке сценариев, построенном с гибкими и мощными доказательствами с нулевым разглашением (Σ-протоколы)."
+    }
+  ],
+  "components.discoverHero.button1": [
+    {
+      "type": 0,
+      "value": "ПРОЧИТАТЬ ДОКУМЕНТАЦИЮ"
+    }
+  ],
+  "components.discoverHero.button2": [
+    {
+      "type": 0,
+      "value": "ВИДЕО-ОБУЧЕНИЕ С DECO"
+    }
+  ],
+  "components.discoverHero.button3": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ МАНИФЕСТ"
+    }
+  ],
+  "components.discoverHero.button4": [
+    {
+      "type": 0,
+      "value": "ПОСМОТРЕТЬ В БЛОГЕ"
+    }
+  ],
+  "components.discoverHero.button5": [
+    {
+      "type": 0,
+      "value": "КАК УСТАНОВИТЬ"
+    }
+  ],
+  "components.discoverHero.button6": [
+    {
+      "type": 0,
+      "value": "ПОСЕТИТЬ ERGONAUT.SPACE"
+    }
+  ],
+  "components.ecosystemHero.title": [
+    {
+      "type": 0,
+      "value": "Экосистема"
+    }
+  ],
+  "components.ergoExplorer.button1": [
+    {
+      "type": 0,
+      "value": "ИССЛЕДОВАТЕЛЬ"
+    }
+  ],
+  "components.ergoExplorer.button2": [
+    {
+      "type": 0,
+      "value": "ERGO.WATCH"
+    }
+  ],
+  "components.ergofoundation.list1": [
+    {
+      "type": 0,
+      "value": "Содействие "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "непрерывной разработке "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " протокола платформы Ergo;"
+    }
+  ],
+  "components.ergofoundation.list2": [
+    {
+      "type": 0,
+      "value": "Информирование о широком внедрении и использовании платформы Ergo и ее "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " нативного токена "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " (ERG);"
+    }
+  ],
+  "components.ergofoundation.list3": [
+    {
+      "type": 0,
+      "value": "Развитие "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "экосистемы "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " вокруг платформы Ergo;"
+    }
+  ],
+  "components.ergofoundation.list4": [
+    {
+      "type": 0,
+      "value": "Распространять использование платформы Ergo и технологии блокчейн для "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": " общественного блага "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " ;"
+    }
+  ],
+  "components.ergofoundation.list5": [
+    {
+      "type": 0,
+      "value": "Поддерживать "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "действительно децентрализованную инфраструктуру"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " и;"
+    }
+  ],
+  "components.ergofoundation.list6": [
+    {
+      "type": 0,
+      "value": "Поддерживать "
+    },
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "неприкосновенность частной жизни "
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " как основного права человека."
+    }
+  ],
+  "components.ergofoundation.title": [
+    {
+      "children": [
+        {
+          "type": 0,
+          "value": "Фонд Ergo"
+        }
+      ],
+      "type": 8,
+      "value": "b"
+    },
+    {
+      "type": 0,
+      "value": " – это общественная организация, ориентированная на:"
+    }
+  ],
+  "components.faq.text.2": [
+    {
+      "type": 0,
+      "value": "НЕ МОЖЕТЕ НАЙТИ ТО, "
+    },
+    {
+      "type": 1,
+      "value": "breakingLine"
+    },
+    {
+      "type": 0,
+      "value": " ЧТО ИЩЕТЕ?"
+    }
+  ],
+  "components.favorites.button1": [
+    {
+      "type": 0,
+      "value": "УЗНАТЬ ОБ ERGO RAFFLE"
+    }
+  ],
+  "components.grantsAndBounties.button1": [
+    {
+      "type": 0,
+      "value": "СОТРУДНИЧЕСТВО"
+    }
+  ],
+  "components.grantsAndBounties.button2": [
+    {
+      "type": 0,
+      "value": "НАЧАТЬ RAFFLE"
+    }
+  ],
+  "components.grantsAndBounties.button3": [
+    {
+      "type": 0,
+      "value": "СВЯЗАТЬСЯ"
+    }
+  ],
+  "components.hallOfFame.description1": [
+    {
+      "type": 0,
+      "value": "Ergo была основана командой, которая имеет солидный опыт в разработке основных криптовалют и фреймворков блокчейна, включая NXT, Scorex, Cardano и Waves. Ниже приведены краткие биографии некоторых из основной команды ERGO, а также многих других разработчиков и участников сообщества, некоторые из которых анонимны."
+    }
+  ],
+  "components.hallOfFame.description2": [
+    {
+      "type": 0,
+      "value": "Ergo – это основа, и большинство членов основной команды (и даже членов фонда) начинали как члены сообщества. Внизу этой страницы есть краткое описание, а также информация, чтобы узнать больше о Фонде Эрго."
+    }
+  ],
+  "components.hallOfFame.tab1": [
+    {
+      "type": 0,
+      "value": "ЯДРО"
+    }
+  ],
+  "components.hallOfFame.tab2": [
+    {
+      "type": 0,
+      "value": "СООБЩЕСТВО"
+    }
+  ],
+  "components.hallOfFame.tab3": [
+    {
+      "type": 0,
+      "value": "ФОНД"
+    }
+  ],
+  "components.hallOfFame.title": [
+    {
+      "type": 0,
+      "value": "Зал Славы"
+    }
+  ],
+  "components.highlights.title": [
+    {
+      "type": 0,
+      "value": "Главное"
+    }
+  ],
+  "components.homeHero.button": [
+    {
+      "type": 0,
+      "value": "УЗНАТЬ БОЛЬШЕ"
+    }
+  ],
+  "components.homeHero.text": [
+    {
+      "type": 0,
+      "value": "Ergo — это платформа смарт-контрактов нового поколения, которая обеспечивает экономическую свободу обычных людей с помощью безопасных, доступных и децентрализованных финансовых инструментов."
+    }
+  ],
+  "components.homeHero.title": [
+    {
+      "type": 0,
+      "value": "Обеспечение финансовой системы будущего"
+    }
+  ],
+  "components.homeInfo.blockReward": [
+    {
+      "type": 0,
+      "value": "НАГРАДА ЗА БЛОК"
+    }
+  ],
+  "components.homeInfo.circulatingSupply": [
+    {
+      "type": 0,
+      "value": "ОБЪЕМ В ОБРАЩЕНИИ"
+    }
+  ],
+  "components.homeInfo.hashRate": [
+    {
+      "type": 0,
+      "value": "МОЩНОСТЬ СЕТИ"
+    }
+  ],
+  "components.homeInfo.transactionPerDay": [
+    {
+      "type": 0,
+      "value": "ТРАНЗАКЦИЙ В ДЕНЬ"
+    }
+  ],
+  "components.mining.text.1": [
+    {
+      "type": 0,
+      "value": "Майнинг Ergo основан на алгоритме «Autolykos», основанном на принципе «Доказательтве выполнения работы» (Proof of Work), устойчивом к ASIC. Майнеры могут настраивать параметры с помощью голосования в сети, а более крупные изменения вносятся квалифицированным большинством с помощью софт-форка. А также можно участвовать в любых захватывающих разработках, таких как токены для голосования, под-пулы и майнинг пространства журналов. Ergo фокусируется на простоте в ядре, с расширенными функциями, построенными на прикладном уровне, для создания устойчивых договорных денег."
+    }
+  ],
+  "components.mining.text.2": [
+    {
+      "type": 0,
+      "value": "Добро пожаловать в будущее принципа «Доказательтво выполнения работы» (Proof of Work)"
+    }
+  ],
+  "components.mining.text.3": [
+    {
+      "type": 0,
+      "value": "Чтобы начать работу, ознакомьтесь с созданным сообществом Справочником по майнингу, документацией или присоединитесь к дискуссионным площадкам по майнингу."
+    }
+  ],
+  "components.news.blog": [
+    {
+      "type": 0,
+      "value": "Блог"
+    }
+  ],
+  "components.news.latest": [
+    {
+      "type": 0,
+      "value": "Последние новости"
+    }
+  ],
+  "components.news.title": [
+    {
+      "type": 0,
+      "value": "Новости"
+    }
+  ],
+  "components.ourmission.description": [
+    {
+      "type": 0,
+      "value": "Фонд Ergo стремится к органичному и непрерывному развитию протокола платформы Ergo."
+    }
+  ],
+  "components.ourmission.emissionAndTokenomics": [
+    {
+      "type": 0,
+      "value": "ЭМИССИЯ И ТОКЕНОМИКА"
+    }
+  ],
+  "components.ourmission.ergofoundation": [
+    {
+      "type": 0,
+      "value": "ФОНД ERGO"
+    }
+  ],
+  "components.ourmission.reachus.twitter": [
+    {
+      "type": 0,
+      "value": "СЛЕДИТЬ ЗА НАМИ В TWITTER"
+    }
+  ],
+  "components.ourmission.subdescription": [
+    {
+      "type": 0,
+      "value": "Фонд Ergo стремится приложить усилия, чтобы максимизировать количество ценных разработок экосистемы, сделанных с открытым исходным кодом с минимально возможной разрешительной лицензией."
+    }
+  ],
+  "components.ourmission.title": [
+    {
+      "type": 0,
+      "value": "Наша Миссия"
+    }
+  ],
+  "components.roadmap.coinmarketcal": [
+    {
+      "type": 0,
+      "value": "УЗНАТЬ БОЛЬШЕ НА COINMARKETCAL"
+    }
+  ],
+  "components.roadmap.description": [
+    {
+      "type": 0,
+      "value": "Обратите внимание, что Ergo — это платформа. Многие из перечисленных ниже проектов не имеют формальной связи ни с Фондом Ergo, ни друг с другом."
+    }
+  ],
+  "components.roadmap.section1.title": [
+    {
+      "type": 0,
+      "value": "СДЕЛАНО"
+    }
+  ],
+  "components.roadmap.section2.title": [
+    {
+      "type": 0,
+      "value": "В РАБОТЕ"
+    }
+  ],
+  "components.roadmap.section3.title": [
+    {
+      "type": 0,
+      "value": "2022 И ДАЛЕЕ"
+    }
+  ],
+  "components.roadmap.title": [
+    {
+      "type": 0,
+      "value": "Дорожная карта"
+    }
+  ],
+  "components.uniqueErgo.card1.button": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "components.uniqueErgo.card1.text": [
+    {
+      "type": 0,
+      "value": "Ergo опирается на десятилетний опыт разработки блокчейна, дополняя проверенные принципы лучшими рецензируемыми академическими исследованиями в области криптографии, моделей консенсуса и цифровых валют. Мы начинаем с прочных основ блокчейна и изначально реализуем новую и мощную криптографию."
+    }
+  ],
+  "components.uniqueErgo.card1.title": [
+    {
+      "type": 0,
+      "value": "ИССЛЕДОВАНИЯ И ФОКУС НА РЕАЛЬНОМ ПРИМЕНЕНИИ"
+    }
+  ],
+  "components.uniqueErgo.card2.button": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "components.uniqueErgo.card2.text": [
+    {
+      "type": 0,
+      "value": "Ergo обеспечивает превосходную поддержку для реальных финансовых соглашений. Ergo может поддерживать универсальные распределенные приложения (dApps), которые работают предсказуемо, с известными затратами и не несут никаких опасностей неограниченной функциональности. Смарт-контракты Ergo позволяют нам выполнять широкий спектр задач и могут быть Тьюринг-полными, но мы всегда заранее знаем, сколько будет стоить код и будет ли он работать успешно."
+    }
+  ],
+  "components.uniqueErgo.card2.title": [
+    {
+      "type": 0,
+      "value": "МОЩНОСТЬ И БЕЗОПАСНОСТЬ"
+    }
+  ],
+  "components.uniqueErgo.card3.button": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "components.uniqueErgo.card3.text": [
+    {
+      "type": 0,
+      "value": "Сигма-протоколы (Σ-протоколы) являются основой смарт-контрактов Ergo. Они позволяют создать класс эффективных протоколов с нулевым разглашением, которые позволяют нам выполнять сложные задачи, которые в противном случае были бы невозможными, рискованными или дорогостоящими. Добро пожаловать в самостоятельную конфиденциальность на уровне приложений: ненадежные сценарии, которые можно использовать для доступа к микшерам или другим функциям без участия третьих лиц."
+    }
+  ],
+  "components.uniqueErgo.card3.title": [
+    {
+      "type": 0,
+      "value": "ИНТЕЛЛЕКТУАЛЬНОСТЬ И ПРОСТОТА"
+    }
+  ],
+  "components.uniqueErgo.card4.button": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "components.uniqueErgo.card4.text": [
+    {
+      "type": 0,
+      "value": "Обычные пользователи, которые не используют полный узел, должны пользоваться теми же преимуществами безопасности, что и майнеры. Неинтерактивные доказательства работы (NIPOPOWS) позволяют нам совершать и проверять транзакции с полной уверенностью, не требуя хранения, пропускной способности и времени, необходимых для загрузки полной цепочки блоков. Требуется всего 1 МБ данных, что означает, что вы можете использовать любое устройство."
+    }
+  ],
+  "components.uniqueErgo.card4.title": [
+    {
+      "type": 0,
+      "value": "БЕЗОПАСНОСТЬ И ДОСТУПНОСТЬ"
+    }
+  ],
+  "components.uniqueErgo.title": [
+    {
+      "type": 0,
+      "value": "ЧТО ДЕЛАЕТ ERGO УНИКАЛЬНЫМ"
+    }
+  ],
+  "components.usingErg.description": [
+    {
+      "type": 0,
+      "value": "На основе Ergo создается продвинутая эко-система. Независимо от того, являетесь ли вы разработчиком, майнером или инвестором – вы получите все возможности"
+    }
+  ],
+  "components.usingErg.subtitle": [
+    {
+      "type": 0,
+      "value": "НЕУДЕРЖИМЫЕ РАСПРЕДЕЛЕННЫЕ ФИНАНСЫ (DEFI)"
+    }
+  ],
+  "components.usingErg.title": [
+    {
+      "type": 0,
+      "value": "ПОЛУЧИТЬ ERG"
+    }
+  ],
+  "footer.blog.title": [
+    {
+      "type": 0,
+      "value": "БЛОГ"
+    }
+  ],
+  "footer.community.1": [
+    {
+      "type": 0,
+      "value": "Присоединяйтесь к нам"
+    }
+  ],
+  "footer.community.2": [
+    {
+      "type": 0,
+      "value": "Сигманавты"
+    }
+  ],
+  "footer.community.3": [
+    {
+      "type": 0,
+      "value": "Сотрудничество с Ergo"
+    }
+  ],
+  "footer.community.4": [
+    {
+      "type": 0,
+      "value": "Зал СЛавы"
+    }
+  ],
+  "footer.community.5": [
+    {
+      "type": 0,
+      "value": "Фонд Ergo"
+    }
+  ],
+  "footer.community.title": [
+    {
+      "type": 0,
+      "value": "СООБЩЕСТВО"
+    }
+  ],
+  "footer.discover.1": [
+    {
+      "type": 0,
+      "value": "Программное обеспечение"
+    }
+  ],
+  "footer.discover.2": [
+    {
+      "type": 0,
+      "value": "Гранты & Награды"
+    }
+  ],
+  "footer.discover.3": [
+    {
+      "type": 0,
+      "value": "Вопросы и ответы"
+    }
+  ],
+  "footer.discover.4": [
+    {
+      "type": 0,
+      "value": "Исследователь"
+    }
+  ],
+  "footer.discover.5": [
+    {
+      "type": 0,
+      "value": "Документы"
+    }
+  ],
+  "footer.discover.title": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "footer.ecosystem.1": [
+    {
+      "type": 0,
+      "value": "Приложения (DApps)"
+    }
+  ],
+  "footer.ecosystem.2": [
+    {
+      "type": 0,
+      "value": "Дорожная карта"
+    }
+  ],
+  "footer.ecosystem.3": [
+    {
+      "type": 0,
+      "value": "База знаний"
+    }
+  ],
+  "footer.ecosystem.4": [
+    {
+      "type": 0,
+      "value": "Ergo Raffle"
+    }
+  ],
+  "footer.ecosystem.5": [
+    {
+      "type": 0,
+      "value": "Видео-подкасты"
+    }
+  ],
+  "footer.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "ЭКО-СИСТЕМА"
+    }
+  ],
+  "footer.getErg.1": [
+    {
+      "type": 0,
+      "value": "Майнинг"
+    }
+  ],
+  "footer.getErg.2": [
+    {
+      "type": 0,
+      "value": "Калькулятор майнига"
+    }
+  ],
+  "footer.getErg.3": [
+    {
+      "type": 0,
+      "value": "Кошельки"
+    }
+  ],
+  "footer.getErg.4": [
+    {
+      "type": 0,
+      "value": "Биржи"
+    }
+  ],
+  "footer.getErg.title": [
+    {
+      "type": 0,
+      "value": "ПОЛУЧИТЬ ERG"
+    }
+  ],
+  "footer.legal": [
+    {
+      "type": 0,
+      "value": "Законность"
+    }
+  ],
+  "footer.news.title": [
+    {
+      "type": 0,
+      "value": "НОВОСТИ"
+    }
+  ],
+  "footer.privacyPolicy": [
+    {
+      "type": 0,
+      "value": "Политика конфиденциальности"
+    }
+  ],
+  "footer.weGotIt": [
+    {
+      "type": 0,
+      "value": "У нас есть!"
+    }
+  ],
+  "navigation.discover": [
+    {
+      "type": 0,
+      "value": "ИЗУЧИТЬ"
+    }
+  ],
+  "navigation.ecosystem": [
+    {
+      "type": 0,
+      "value": "ЭКО-СИСТЕМА"
+    }
+  ],
+  "navigation.ergoCommunity": [
+    {
+      "type": 0,
+      "value": "ERGO СООБЩЕСТВО"
+    }
+  ],
+  "navigation.getErg": [
+    {
+      "type": 0,
+      "value": "ПОЛУЧИТЬ ERG"
+    }
+  ],
+  "navigation.moreContent": [
+    {
+      "type": 0,
+      "value": "Больше информации?"
+    }
+  ],
+  "pages.404.hero": [
+    {
+      "type": 0,
+      "value": "404. Страница не найдена."
+    }
+  ],
+  "pages.404.title": [
+    {
+      "type": 0,
+      "value": "Не найдено"
+    }
+  ],
+  "pages.blog.title": [
+    {
+      "type": 0,
+      "value": "Блог"
+    }
+  ],
+  "pages.community.title": [
+    {
+      "type": 0,
+      "value": "Сообщество"
+    }
+  ],
+  "pages.discover.title": [
+    {
+      "type": 0,
+      "value": "Изучить"
+    }
+  ],
+  "pages.ecosystem.title": [
+    {
+      "type": 0,
+      "value": "Эко-система"
+    }
+  ],
+  "pages.get-erg.title": [
+    {
+      "type": 0,
+      "value": "Получить ERG"
+    }
+  ],
+  "pages.home.title": [
+    {
+      "type": 0,
+      "value": "Начало"
+    }
+  ],
+  "pages.legal.title": [
+    {
+      "type": 0,
+      "value": "Законность"
+    }
+  ],
+  "pages.mobile-wallets": [
+    {
+      "type": 0,
+      "value": "Мобильные кошельки"
+    }
+  ],
+  "pages.privacyPolicy.title": [
+    {
+      "type": 0,
+      "value": "Политика конфиденциальности"
+    }
+  ]
+}
